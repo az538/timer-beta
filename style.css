@@ -1,0 +1,24 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0px;
+     align-self: center;
+ text-align: center;
+ align-content: center;
+}
+head, body{
+    background-color: orange;
+}
+.title{
+    text-align: center;
+    color: aliceblue;
+}
+.button1{
+    color: orange;
+    
+}
+.button{
+    color: orange;
+}
+h1{
+    text-shadow: 5px 5px darkorange;
+}
